@@ -11,4 +11,5 @@ Write a C++ program to Print values in their binary representation.
 unsigned int 3;
 ```
 Expected output: 00000000 00000000 00000000 00000011
+
 (For a machine with 4-byte integers)
